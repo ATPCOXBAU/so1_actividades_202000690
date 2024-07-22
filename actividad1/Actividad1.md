@@ -1,6 +1,6 @@
 ### Entrevista
 
-#### Persona 1: Ana Quiroa, Estudiandte de Ingeniera de Sistemas
+#### Persona 1: Ana Quiroa, Estudiante de Ingeniera de Sistemas
 
 **Pregunta: ¿Qué entiendes por sistema operativo?**
 
@@ -38,4 +38,4 @@ De las entrevistas a Ana y Maria Jose, se puede observar una diferencia signific
 
 3. **IP**: Ana ofrece una definición técnica y precisa de la dirección IP, mencionando los tipos de IPv4 e IPv6 y su función en la red. Maria Jose comprende la IP como una dirección necesaria para identificar dispositivos en una red.
 
-En conclusión, la diferencia en la formación y experiencia de las personas entrevistadas influye en la profundidad de sus respuestas. Mientras Ana proporciona explicaciones detalladas y técnicas, Maria Jose ofrece una comprensión más básica y conceptual, adecuada para su contexto no técnico. Esto destaca la importancia de adaptar las explicaciones técnicas al nivel de conocimiento del interlocutor para asegurar una comunicación efectiva.
+La diferencia en la formación y experiencia de las personas entrevistadas influye en  respuestas.  Ana proporciona explicaciones detalladas y técnicas, Maria Jose ofrece una comprensión más básica. 
